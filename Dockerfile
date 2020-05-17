@@ -1,5 +1,5 @@
 # The official Elasticsearch Docker image
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.4.1@sha256:88c2ee30115f378b8f7e66662ec26bca0c8778c69096bee6b161128ce833585f
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.8.9
 
 
 # Copy our config file over
